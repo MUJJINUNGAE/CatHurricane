@@ -1,7 +1,5 @@
 # 🐱🌪️ CatHurricane (고양이 태풍)
 
-I raise a cat that likes to spin around.
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Cat%20Hurricane&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
